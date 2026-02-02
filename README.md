@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Usman Tahir, a QA Engineer
 
-I’m a passionate **QA Engineer** with hands-on experience in **manual and automation testing**, focused on delivering high-quality, reliable, and scalable software. I enjoy breaking things (responsibly 😄) and building robust test frameworks that help teams ship faster with confidence.
+I’m a passionate **QA Engineer** with hands-on experience in **manual and automation testing**, focused on delivering high-quality, reliable, and scalable software. I enjoy breaking things (responsibly) and building robust test frameworks that help teams ship faster with confidence.
 
 ---
 
@@ -73,9 +73,9 @@ I’m a passionate **QA Engineer** with hands-on experience in **manual and auto
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: *Add your LinkedIn URL*
-- 📧 Email: *Add your email*
-- 🌐 GitHub: You’re already here 😄
+- 💼 LinkedIn: https://www.linkedin.com/in/usman-tahir-3071779b
+- 📧 Email: usman.tahir6@gmil.com
+- 🌐 GitHub: You’re already here 
 
 ---
 
