@@ -74,7 +74,7 @@ I’m a passionate **QA Engineer** with hands-on experience in **manual and auto
 
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/usman-tahir-3071779b
-- 📧 Email: usman.tahir6@gmil.com
+- 📧 Email: usman.tahir6@gmail.com
 - 🌐 GitHub: You’re already here 
 
 ---
